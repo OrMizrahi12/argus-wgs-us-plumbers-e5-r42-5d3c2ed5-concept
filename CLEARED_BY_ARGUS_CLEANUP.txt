@@ -1,0 +1,4 @@
+repo=OrMizrahi12/argus-wgs-us-plumbers-e5-r42-5d3c2ed5-concept
+cleared_at_utc=2026-05-19T09:10:38.078496+00:00
+action=disable_pages_and_force_push_minimal_main
+protocol=WGS
